@@ -19,6 +19,7 @@ const experiences: ExperienceItem[] = [
     period: "09/2025 - Present",
     description: "Owning live operations for a mobile game title at a game development services company — managing seasonal deployments, monetisation systems, and cross-functional defect resolution on iOS and Android.",
     achievements: [
+      "Own end-to-end LiveOps on a mobile title with 50M+ lifetime downloads and 24K daily active users.",
       "Owned end-to-end live operations for two consecutive seasons — managing 10 production deployments, 6 LTBs, 4 Trading Posts, and full Legendary, Mythic, Rider, and Atlas branch suites on iOS and Android.",
       "Identified and mitigated a $20,000 revenue risk through impact analysis of Tower Instance configurations during a live Fortification event prize programme.",
       "Resolved a monetisation-critical gacha defect (missing Festive Dragon shards from Draconic Chests) affecting chest revenue — root cause identified and deployed to production without escalation.",
