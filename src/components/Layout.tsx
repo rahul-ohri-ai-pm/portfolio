@@ -45,7 +45,7 @@ const Layout = ({ children }: LayoutProps) => {
                 Steam Profile
               </a>
               <a
-                href="https://github.com/gamedev1991"
+                href="https://github.com/rahul-ohri-ai-pm"
                 target="_blank"
                 rel="noreferrer"
                 className="text-white/60 hover:text-cyan-400 transition-colors text-sm"

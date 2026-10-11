@@ -179,7 +179,7 @@ const Contact = () => {
                 </a>
                 
                 <a
-                  href="https://github.com/gamedev1991"
+                  href="https://github.com/rahul-ohri-ai-pm"
                   target="_blank"
                   rel="noreferrer"
                   className="flex items-center space-x-3 text-white/80 hover:text-cyan-400 transition-colors group"
