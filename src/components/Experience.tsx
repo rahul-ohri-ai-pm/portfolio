@@ -62,19 +62,19 @@ const experiences: ExperienceItem[] = [
   },
   {
     company: "Playshifu",
-    role: "Game Developer",
-    period: "2020 - 2021",
+    role: "Games Product Manager",
+    period: "07/2021 - 03/2022",
     description: "Developed educational AR games for children, focusing on learning through interactive play.",
     achievements: [
       "Developed Tacto Electronics Game, reaching 1K+ downloads in first month",
       "Created adaptive difficulty system, improving session length by 40%",
-      "Led efforts on analyzing on Tacto Electronics Game to diagnose drop-offs and increase level completion rate by 5%"
+      "Analyzed Tacto Electronics Game to diagnose drop-offs and increase level completion rate by 5%"
     ]
   },
   {
     company: "SplashLearn",
-    role: "Game Developer",
-    period: "2019 - 2020",
+    role: "Senior Software Engineer",
+    period: "07/2019 - 07/2021",
     description: "Designed and developed educational games targeting K-5 curriculum with focus on engagement and learning outcomes.",
     achievements: [
       "Built math games that increased engagement by 23%",

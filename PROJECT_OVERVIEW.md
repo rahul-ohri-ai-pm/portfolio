@@ -111,8 +111,8 @@ Expandable timeline cards, most recent first:
 | Blkbox AI | Product Manager | 2023–Present |
 | AURA | Product Manager | 2022–2023 |
 | FanClash | Product Manager | 2021–2022 |
-| Playshifu | Game Developer | 2020–2021 |
-| SplashLearn | Game Developer | 2019–2020 |
+| Playshifu | Games Product Manager | 07/2021–03/2022 |
+| SplashLearn | Senior Software Engineer | 07/2019–07/2021 |
 | Nukebox Studios | Game Developer | 2017–2019 |
 
 ### 4. Projects (Gallery)
