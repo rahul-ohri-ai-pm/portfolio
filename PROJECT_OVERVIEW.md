@@ -8,7 +8,7 @@
 
 ## What This Is
 
-A personal portfolio website for **Rahul Ohri**, a Product Manager and Game Developer with 6+ years in game development and 3+ years in product management. The site is a single-page application (SPA) with a cyberpunk aesthetic, showcasing career history, projects, skills, and a blog with case studies.
+A personal portfolio website for **Rahul Ohri**, a Product Manager and Game Developer with 11+ years in the gaming industry. The site is a single-page application (SPA) with a cyberpunk aesthetic, showcasing career history, projects, skills, and a blog with case studies.
 
 ---
 
@@ -99,7 +99,7 @@ Portfolio/
 
 ### 2. About
 - Profile image with scan-line overlay and grid effect
-- Bio highlights: 6+ years game dev, 3+ years PM
+- Bio highlights: 11+ years in the gaming industry (stated as one undivided figure)
 - Companies: Blkbox AI, AURA, FanClash, Playshifu, SplashLearn, Nukebox Studios
 - 6 core skill cards: Game Design, Data Analytics, Product Strategy, Web3 & Mobile, Innovation, Team Leadership
 

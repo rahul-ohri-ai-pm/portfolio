@@ -53,7 +53,7 @@ const About = () => {
     {
       icon: <Gamepad size={28} />,
       title: "Mobile Gaming Domain",
-      description: "10+ years shipping mobile games across casual, F2P, AR, and Web3 — including a Google Play Game of Year title."
+      description: "11+ years shipping mobile games across casual, F2P, AR, and Web3 — including a Google Play Game of Year title."
     }
   ];
 
