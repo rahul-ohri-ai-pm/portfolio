@@ -11,7 +11,7 @@ Personal portfolio for Rahul Ohri — Product Manager and Game Developer with 9+
 - **React 18** + **TypeScript** — SPA with React Router v6
 - **Vite 6** (SWC) — build tool with manual code splitting
 - **Tailwind CSS 3** + **shadcn/ui** — cyberpunk design system
-- **EmailJS** — contact form email delivery
+- **Direct contact links** — mailto, LinkedIn, GitHub and Steam (no contact form)
 - **TanStack React Query** — server state and caching
 - **react-markdown** + **react-pdf** — blog content rendering
 
